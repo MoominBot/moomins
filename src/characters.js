@@ -126,7 +126,7 @@ The asteroid 58345 Moomintroll was named in his honor.`
     {
         name: "Moominpappa",
         tags: ["moomin pappa", "moomin baba"],
-        description: "rphaned in his younger years, he is a somewhat restless soul who left the orphanage to venture out into the world in his youth, but has now settled down. His eagerness to try new things often sets a story in motion. He usually wears a black top-hat."
+        description: "Orphaned in his younger years, he is a somewhat restless soul who left the orphanage to venture out into the world in his youth, but has now settled down. His eagerness to try new things often sets a story in motion. He usually wears a black top-hat."
     },
     {
         name: "Muddler",
