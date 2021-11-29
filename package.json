@@ -1,6 +1,6 @@
 {
   "name": "@moominbot/moomins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Moomins data",
   "main": "index.js",
   "types": "index.d.ts",
