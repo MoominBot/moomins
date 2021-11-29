@@ -1,0 +1,29 @@
+{
+  "name": "@moominbot/moomins",
+  "version": "1.0.0",
+  "description": "Moomins data",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "src",
+    "index.d.ts",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moominbot/moomins.git"
+  },
+  "keywords": [
+    "moomin",
+    "moomins"
+  ],
+  "author": "DevAndromeda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moominbot/moomins/issues"
+  },
+  "homepage": "https://github.com/moominbot/moomins#readme"
+}
